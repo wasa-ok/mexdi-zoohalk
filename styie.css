@@ -1,0 +1,24 @@
+body {
+    font-family: sans-serif;
+    background-color :#FFFFDE ;
+}
+a{
+text-decoration :none ;
+}
+
+header {
+padding: 20px;
+}
+header img{
+width: 100px;
+}
+header a{
+color: #FFFFDE;
+font-size: 32px;
+margin: -right 40px;
+ margin: left 40px;
+}
+footer{
+ background-color: #ffff17;   
+ padding: 20 px;
+}
